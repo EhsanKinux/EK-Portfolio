@@ -38,13 +38,23 @@ export const experiences = [
   {
     date: 'APR 2023 - MAY 2024',
     role: 'Front-End Developer',
-    company: 'Independent / Contract · Remote',
+    company: 'droplinked / Contract · Remote',
     items: [
       'Built responsive, componentized UIs using React and Tailwind CSS with accessible markup and mobile-first layouts.',
       'Implemented interactive 3D product viewers with Three.js, including camera controls and smooth animations.',
       'Developed cross-platform mobile UI components in React Native integrated with Appwrite for auth and data.',
       'Collaborated with QA and stakeholders to triage issues and improve app performance and stability.',
       'Created reusable UI patterns and documentation to speed up feature development across projects.',
+    ],
+  },
+    {
+    date: 'MAY 2024 - AUGUST 2024',
+    role: 'Front-End Developer',
+    company: 'Independent / Contract · Remote',
+    items: [
+      'Designed and developed a web-based dashboard to manage adviser-student interactions and track academic progress',
+      'Implemented accounting and financial handling features, including balance tracking and results reporting',
+      'Created data visualization components to display student results and financial summaries clearly and interactively.',
     ],
   },
 ];
