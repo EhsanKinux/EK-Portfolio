@@ -49,7 +49,7 @@ export const experiences = [
   },
     {
     date: 'MAY 2024 - AUGUST 2024',
-    role: 'Front-End Developer',
+    role: 'Dashboard Platform for Student Advisers & Accounting',
     company: 'Independent / Contract · Remote',
     items: [
       'Designed and developed a web-based dashboard to manage adviser-student interactions and track academic progress',
