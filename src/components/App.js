@@ -1,10 +1,10 @@
-import { aboutSection } from './about.js';
-import { contactSection } from './contact.js';
-import { experienceSection } from './experience.js';
-import { hero } from './hero.js';
-import { navigation } from './navigation.js';
-import { projectsSection } from './projects.js';
-import { skillsSection } from './skills.js';
+import { aboutSection } from "./about.js";
+import { contactSection } from "./contact.js";
+import { experienceSection } from "./experience.js";
+import { hero } from "./hero.js";
+import { navigation } from "./navigation.js";
+import { projectsSection } from "./projects.js";
+import { skillsSection } from "./skills.js";
 
 function divider() {
   return '<div class="divider"></div>';
@@ -18,13 +18,13 @@ export function renderApp(root) {
     ${navigation()}
     ${hero()}
     ${divider()}
+    ${aboutSection()}
     ${skillsSection()}
     ${divider()}
     ${experienceSection()}
     ${divider()}
     ${projectsSection()}
     ${divider()}
-    ${aboutSection()}
     ${divider()}
     ${contactSection()}
     <footer>

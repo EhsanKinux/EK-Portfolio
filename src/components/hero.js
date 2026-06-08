@@ -8,10 +8,16 @@ export function hero() {
         </div>
         <div class="hero-tag">Front-End Developer / Quantum Computing Researcher · Hamedan, Iran</div>
         <h1 class="hero-name">Ehsan<br /><span class="accent">Khodaveysi</span></h1>
-        <p class="hero-role">React · Next.js · Three.js · React Native · TypeScript</p>
+        <p class="hero-role">
+          <span class="glassy">React</span> · 
+          <span class="glassy">Next.js</span> · 
+          <span class="glassy">Three.js</span> · 
+          <span class="glassy">React Native</span> · 
+          <span class="glassy">TypeScript</span>
+        </p>
         <p class="hero-desc">
-          Building fast, accessible, and memorable web and mobile experiences - from interactive 3D interfaces to
-          production-grade dashboards.
+          <span class="glassy">Building fast, accessible, and memorable web and mobile experiences - from interactive 3D interfaces to</span>
+          <span class="glassy">production-grade dashboards.</span>
         </p>
         <div class="hero-cta">
           <a href="#projects" class="btn-primary">View Projects ↓</a>

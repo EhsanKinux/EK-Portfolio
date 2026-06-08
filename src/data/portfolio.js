@@ -66,7 +66,7 @@ export const projects = [
     description:
       'Interactive 3D product model viewer with model rotation, zoom, and camera animation for intuitive product inspection and exploration.',
     stack: ['React', 'Three.js', 'WebGL', 'GSAP'],
-    href: 'https://github.com/EhsanKinux',
+    href: 'https://tshirt-viewer.netlify.app/',
   },
   {
     number: '002',
@@ -74,7 +74,7 @@ export const projects = [
     description:
       'Web-based platform managing adviser-student interactions and academic progress, with accounting features, balance tracking, and interactive data visualizations.',
     stack: ['React', 'Tailwind CSS', 'Zustand', 'Data Viz'],
-    href: 'https://github.com/EhsanKinux',
+    href: 'https://github.com/EhsanKinux/deltakonkur',
   },
 ];
 
